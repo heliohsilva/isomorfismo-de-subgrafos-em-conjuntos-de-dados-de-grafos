@@ -1,17 +1,16 @@
 import compute as cp
 import networkx as nx
+import os
 
 def main ():
-    g = nx.Graph()
+    if os.path.exists("iso_result.txt"):
+        os.remove("iso_result.txt")
 
-    g.add_edge(0, 1)
-    #g.add_edge(1, 2)
-    
-    G = cp.compute_graph_list(g)
+    dataset = "MUTAG"
+    #cp.generate_input(dataset)
+    cp.compute_graph_list(dataset)
 
-    for graph in G:
-        for gr in graph:
-            print(gr)
 
 if __name__ == "__main__":
     main()
+
