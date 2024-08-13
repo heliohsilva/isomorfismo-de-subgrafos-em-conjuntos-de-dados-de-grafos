@@ -2,23 +2,24 @@ import networkx as nx
 import concurrent.futures
 from in_out_data import generate_walk, read_input, read_graph_list
 import itertools
+from random import choices
+import matplotlib.pyplot as plt
+from memory_profiler import profile
 
 BATCH = 20
 NWKRS = 5
 
-
 def generate_input(dataset):
-    for i in range(3, 10):
+    for i in range(3, 8):
         generate_walk(dataset, i)
 
 
-
 def compute_graph_list(dataset):
-
+    
     graph_list = read_graph_list(dataset)
 
     #3, 8
-    for i in range(3, 10):
+    for i in range(3, 8):
         input_list = read_input(i)
 
         #5
@@ -48,11 +49,10 @@ def compute_graph_list(dataset):
                         if type(g) == int:
                             break
                         graph_batch.append(g)
+                
+                
 
-                    
                     batch_list.append(graph_batch)
-
-
                     
                 with concurrent.futures.ProcessPoolExecutor(NWKRS) as executor:
                     futures = [
@@ -65,7 +65,6 @@ def compute_graph_list(dataset):
 
                 result_iter = itertools.chain(*temporary_result)
 
-                
                 if result_iter:
                     for graph in result_iter:
                         G.append(graph)
@@ -73,25 +72,55 @@ def compute_graph_list(dataset):
             write_file(j, i, len(G))
 
 
+def parse_line_graph(g):
+
+    G = nx.Graph(nx.line_graph(g))
+
+    for n in G.nodes():
+        G.nodes[n]["labels"] = g[n[0]][n[1]]["labels"]
+
+    return G
 
 def compute_graph_batch(graph_list, input):
 
-    graph_list = [{"graph": g, "line_graph":nx.line_graph(g)} for g in graph_list]
-    input = {"graph":input, "line_graph": nx.line_graph(input)}
+    graph_list = [{"graph": g, "line_graph": parse_line_graph(g)} for g in graph_list]
+    input = {"graph":input, "line_graph": parse_line_graph(input)}
 
     return_list = list()
 
-    em = nx.isomorphism.numerical_node_match("labels", 456)
+    nm = nx.isomorphism.numerical_node_match('labels', -1)
 
     for g in range(len(graph_list)):
-
-        iso = nx.isomorphism.GraphMatcher(graph_list[g]["line_graph"], input["line_graph"], edge_match=em)
-
+        iso = nx.isomorphism.GraphMatcher(graph_list[g]["line_graph"], input["line_graph"], node_match=nm)
         if iso.subgraph_is_isomorphic():
             return_list.append(graph_list[g]["graph"])
 
-    return return_list
+    if return_list:
+        teste = choices(return_list, k=1)[0]
+        """
+        input = input["graph"]
+        pos = nx.spring_layout(input)  
+        nx.draw(input, pos, with_labels=True)
+        edge_labels = nx.get_edge_attributes(input, 'labels')
 
+        nx.draw_networkx_edge_labels(input, pos, edge_labels=edge_labels, label_pos=0.5)
+
+        plt.show()
+
+        pos = nx.spring_layout(teste)  
+
+        nx.draw(teste, pos, with_labels=True)
+
+        edge_labels = nx.get_edge_attributes(teste, 'labels')
+        nx.draw_networkx_edge_labels(teste, pos, edge_labels=edge_labels, label_pos=0.5)
+
+        plt.show()
+        """
+        
+    else:
+        print("sem resultado\n")
+
+    return return_list
 
 
 
