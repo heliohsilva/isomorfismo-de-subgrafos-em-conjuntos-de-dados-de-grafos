@@ -4,7 +4,7 @@ from in_out_data import generate_walk, read_input, read_graph_list
 import itertools
 from random import choices
 import matplotlib.pyplot as plt
-from memory_profiler import profile
+import time
 
 BATCH = 20
 NWKRS = 5
@@ -14,62 +14,51 @@ def generate_input(dataset):
         generate_walk(dataset, i)
 
 
-def compute_graph_list(dataset):
-    
+def compute_graph_list(dataset, input_size, nworkers, batch_size):
     graph_list = read_graph_list(dataset)
 
-    #3, 8
-    for i in range(3, 8):
-        input_list = read_input(i)
+    input_list = read_input(input_size)
+    
+    #cada input_file tem 5 input graphs.
+    for j in range(5):
+        begin = time.time()
+        input = input_list[j]
+        batch_size = int(len(graph_list) * (batch_size/100))
+        graph_list.append(1)
+        it = iter(graph_list)
+        G = list()
+        
+        g = ""
 
-        #5
-        for j in range(5):
-
-            input = input_list[j]
-
-            graph_list.append(1)
-            it = iter(graph_list)
-            G = list()
-            
-            g = ""
-
-            while type(g) != int:
-                
-                batch_list = list()
-                temporary_result = list()
-
-                for _ in range(NWKRS):
+        while type(g) != int:
+            batch_list = list()
+            temporary_result = list()
+            for _ in range(nworkers):
+                if type(g) == int:
+                    break
+                graph_batch = list()
+                for _ in range(batch_size):
+                    g = next(it)
                     if type(g) == int:
                         break
-                    graph_batch = list()
-
-                    for _ in range(BATCH):
-                        g = next(it)
-
-                        if type(g) == int:
-                            break
-                        graph_batch.append(g)
+                    graph_batch.append(g)
+            
+            
+                batch_list.append(graph_batch)
                 
-                
+            with concurrent.futures.ProcessPoolExecutor(nworkers) as executor:
+                futures = [
+                    executor.submit(compute_graph_batch, batch, input)
+                    for batch in batch_list
+                ]
+                for future in concurrent.futures.as_completed(futures):
+                    temporary_result.append(future.result())
+            result_iter = itertools.chain(*temporary_result)
+            if result_iter:
+                for graph in result_iter:
+                    G.append(graph)
 
-                    batch_list.append(graph_batch)
-                    
-                with concurrent.futures.ProcessPoolExecutor(NWKRS) as executor:
-                    futures = [
-                        executor.submit(compute_graph_batch, batch, input)
-                        for batch in batch_list
-                    ]
-
-                    for future in concurrent.futures.as_completed(futures):
-                        temporary_result.append(future.result())
-
-                result_iter = itertools.chain(*temporary_result)
-
-                if result_iter:
-                    for graph in result_iter:
-                        G.append(graph)
-
-            write_file(j, i, len(G))
+        write_file(j, input_size, len(G), time.time() - begin, nworkers, batch_size)
 
 
 def parse_line_graph(g):
@@ -124,6 +113,8 @@ def compute_graph_batch(graph_list, input):
 
 
 
-def write_file(input_index, input_path_size, results):
+def write_file(input_index, input_path_size, results, time, nworkers, batch_size):
     with open("iso_result.txt", "a") as f:
-        f.write(f'o input número {input_index}, do tamanho {input_path_size} gerou {results} resultados\n')
+        f.write(f'o input número {input_index}, do tamanho {input_path_size} gerou {results} resultados e demorou {time} segundos para processar\n')
+        f.write(f'trabalharam neste processo {nworkers} cpus e o batch tinha tamanho {batch_size}\n\n')
+
