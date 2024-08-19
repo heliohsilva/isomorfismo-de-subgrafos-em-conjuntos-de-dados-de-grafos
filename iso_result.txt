@@ -33,3 +33,1623 @@ o input número 1, do tamanho 9 gerou 188 resultados
 o input número 2, do tamanho 9 gerou 188 resultados
 o input número 3, do tamanho 9 gerou 188 resultados
 o input número 4, do tamanho 9 gerou 188 resultados
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.6570804119110107 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.02282571792602539 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.023514509201049805 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.02277231216430664 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.024119853973388672 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.5458190441131592 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.03461599349975586 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.038213253021240234 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.033982276916503906 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.033208608627319336 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.44397592544555664 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.0752098560333252 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.07722783088684082 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.0649416446685791 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.06613659858703613 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.4174156188964844 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.07503342628479004 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.07683801651000977 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.07812714576721191 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.07620763778686523 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.5127699375152588 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.11364579200744629 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.10767436027526855 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.10221004486083984 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.09704732894897461 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.45131587982177734 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.024753808975219727 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.02457594871520996 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.02409648895263672 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.02481698989868164 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.35825347900390625 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.03449249267578125 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.03323674201965332 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.03653740882873535 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.03616786003112793 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.26165246963500977 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.05465865135192871 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.05745339393615723 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.05517220497131348 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.0551760196685791 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.2980988025665283 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.0888216495513916 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.0882568359375 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.09275460243225098 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.09329771995544434 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.3219759464263916 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.1120443344116211 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.11134862899780273 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.11399674415588379 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.11560249328613281 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.686760663986206 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.024565935134887695 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.02411484718322754 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.02475142478942871 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.024576902389526367 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.581040620803833 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.04383492469787598 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.04829549789428711 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.045001983642578125 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.03806328773498535 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.4354822635650635 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.062453508377075195 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.06418681144714355 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.05597043037414551 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.05219411849975586 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.6358966827392578 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.07598233222961426 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.07790708541870117 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.0881192684173584 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.08395600318908691 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.6813333034515381 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.13123202323913574 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.12856674194335938 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.12616634368896484 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.13167405128479004 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.43563151359558105 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.024567365646362305 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.023808717727661133 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.023541927337646484 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.02452230453491211 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.34246039390563965 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.03405952453613281 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.03505373001098633 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.035985708236694336 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.03266620635986328 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.45184922218322754 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.08084511756896973 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.07147598266601562 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.05956864356994629 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.06171274185180664 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.23851394653320312 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.07584118843078613 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.08030104637145996 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.08791399002075195 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.088531494140625 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.28873324394226074 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.09874510765075684 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.10814332962036133 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.11768555641174316 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.12783432006835938 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.39666080474853516 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.02395462989807129 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.02390599250793457 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.024919748306274414 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.028748273849487305 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.27327585220336914 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.032884836196899414 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.033162593841552734 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.03937697410583496 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.03804183006286621 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.2715752124786377 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.0625615119934082 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.06940126419067383 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.06893420219421387 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.06909394264221191 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.24409770965576172 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.07666587829589844 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.08150434494018555 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.08523988723754883 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.08597898483276367 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.19944047927856445 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.1127617359161377 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.10787367820739746 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.10991358757019043 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.11551809310913086 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.37758684158325195 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.03552389144897461 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.06297755241394043 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.042351484298706055 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.04605722427368164 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.21766400337219238 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.03281545639038086 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.03239083290100098 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.03716850280761719 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.034169673919677734 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.2141265869140625 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.05399918556213379 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.08546066284179688 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.07308053970336914 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.05887293815612793 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.17219805717468262 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.07971739768981934 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.0853261947631836 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.0807034969329834 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.08589529991149902 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.1835041046142578 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.11141586303710938 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.10318517684936523 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.11175179481506348 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.11121463775634766 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.7801313400268555 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.02760601043701172 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.02747368812561035 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.02976822853088379 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.028729677200317383 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.5854790210723877 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.032175540924072266 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.035771846771240234 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.038787126541137695 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.036913156509399414 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.4486675262451172 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.056693077087402344 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.05860137939453125 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.05512428283691406 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.053487539291381836 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.463853120803833 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.07974910736083984 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.08519458770751953 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.08807516098022461 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.11446785926818848 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.4470515251159668 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.10882329940795898 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.10419154167175293 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.11360764503479004 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.10789132118225098 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.5618553161621094 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.02680492401123047 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.026744842529296875 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.028230667114257812 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.032004594802856445 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.412431001663208 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.03247213363647461 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.036202192306518555 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.03972959518432617 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.037055015563964844 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.2918233871459961 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.054183244705200195 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.05926966667175293 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.05625486373901367 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.0542912483215332 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.2849562168121338 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.07900023460388184 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.1462717056274414 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.09224939346313477 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.09754681587219238 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.3318941593170166 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.10709691047668457 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.10405325889587402 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.10688352584838867 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.10921835899353027 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.4193902015686035 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.024147510528564453 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.025233745574951172 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.024500608444213867 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.03102874755859375 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.3371775150299072 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.037168264389038086 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.03700447082519531 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.03775954246520996 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.03379225730895996 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.23921823501586914 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.05527973175048828 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.059659481048583984 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.05496096611022949 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.058567047119140625 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.28939175605773926 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.07840394973754883 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.0825798511505127 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.08443355560302734 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.08404231071472168 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.2201838493347168 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.10633969306945801 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.10695552825927734 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.11034202575683594 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.1101381778717041 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.559323787689209 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.02550363540649414 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.026428937911987305 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.027521848678588867 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.030694246292114258 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.24866938591003418 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.032338857650756836 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.03566455841064453 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.03663921356201172 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.03374075889587402 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.2504134178161621 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.05246734619140625 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.060843706130981445 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.05649232864379883 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.05538773536682129 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.18991374969482422 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.07580018043518066 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.08282804489135742 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.08640837669372559 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.08646345138549805 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.2163097858428955 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.10698866844177246 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.10593605041503906 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.10967540740966797 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.10809564590454102 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.8696660995483398 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.024614810943603516 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.024777889251708984 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.02488875389099121 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.02474498748779297 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.6596839427947998 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.03574085235595703 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.03590130805969238 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.035515785217285156 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.0328066349029541 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.5022938251495361 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.05185294151306152 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.05222487449645996 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.05439877510070801 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.05499076843261719 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.5035951137542725 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.07661890983581543 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.08695125579833984 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.0849761962890625 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.08368468284606934 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.48464512825012207 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.10410404205322266 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.1049647331237793 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.10759162902832031 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.10945606231689453 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.6605193614959717 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.027766942977905273 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.02780294418334961 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.029771089553833008 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.03006291389465332 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.43590307235717773 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.03601217269897461 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.03751182556152344 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.048689842224121094 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.03328561782836914 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.3294081687927246 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.05483841896057129 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.05872845649719238 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.05922365188598633 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.05580449104309082 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.3226001262664795 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.07657408714294434 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.08199596405029297 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.09737586975097656 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.08361434936523438 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.4219200611114502 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.11120820045471191 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.12682318687438965 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.11598587036132812 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.10950565338134766 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.554966926574707 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.026781082153320312 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.027711153030395508 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.032763004302978516 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.03246450424194336 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.41576504707336426 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.042147159576416016 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.03998088836669922 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.039886474609375 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.0363619327545166 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.34120869636535645 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.05814957618713379 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.07559537887573242 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.08540964126586914 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.08510208129882812 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.40653157234191895 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.15011167526245117 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.11332035064697266 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.08965611457824707 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.08971357345581055 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.2517092227935791 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.10760903358459473 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.10406756401062012 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.12625837326049805 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.11710596084594727 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.5320639610290527 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.023800134658813477 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.02487635612487793 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.026539325714111328 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.024788379669189453 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.3011782169342041 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.03199148178100586 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.032172203063964844 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.03816056251525879 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.037462472915649414 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.2910788059234619 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.05305790901184082 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.05838131904602051 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.05433535575866699 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.05430126190185547 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.23723506927490234 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.07917571067810059 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.07909011840820312 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.08359193801879883 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.1051945686340332 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 5 gerou 50 resultados e demorou 0.27051305770874023 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 5 gerou 0 resultados e demorou 0.1031794548034668 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 5 gerou 0 resultados e demorou 0.09824872016906738 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 5 gerou 0 resultados e demorou 0.10497188568115234 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 5 gerou 0 resultados e demorou 0.10408353805541992 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 6 gerou 174 resultados e demorou 0.6724016666412354 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 6 gerou 0 resultados e demorou 0.023684263229370117 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 6 gerou 0 resultados e demorou 0.024436235427856445 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 6 gerou 0 resultados e demorou 0.024074792861938477 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 6 gerou 0 resultados e demorou 0.029729604721069336 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.6719589233398438 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.024960994720458984 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.024374961853027344 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.02384638786315918 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.026578187942504883 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.512575626373291 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.03430795669555664 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.031473398208618164 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.03720831871032715 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.03519773483276367 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.5019960403442383 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.056307077407836914 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.05532217025756836 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.055191993713378906 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.05398917198181152 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.40921688079833984 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.0773015022277832 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.08117914199829102 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.08241510391235352 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.0806276798248291 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.417499303817749 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.10605502128601074 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.11683988571166992 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.16975784301757812 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.11246848106384277 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.4757413864135742 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.028384685516357422 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.02754688262939453 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.0302276611328125 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.027224302291870117 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.30179572105407715 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.033648014068603516 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.03252434730529785 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.039819955825805664 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.039881229400634766 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.3581349849700928 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.07173013687133789 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.07108163833618164 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.07441878318786621 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.06985259056091309 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.24042797088623047 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.07195353507995605 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.07957601547241211 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.0808248519897461 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.07857012748718262 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.35016846656799316 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.1087961196899414 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.09960532188415527 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.1068267822265625 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.11135315895080566 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.39479494094848633 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.02460646629333496 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.026702165603637695 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.02624034881591797 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.028458356857299805 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.29111266136169434 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.03279304504394531 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.03272294998168945 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.03938436508178711 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.038742780685424805 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.19253873825073242 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.052092790603637695 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.05519700050354004 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.053698062896728516 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.05504870414733887 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.2556939125061035 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.07943439483642578 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.09704470634460449 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.08129191398620605 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.08057355880737305 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.18080353736877441 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 28
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.10603499412536621 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 52
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.09957098960876465 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 97
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.10414719581604004 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 182
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.10431766510009766 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 342
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.4252157211303711 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.030978918075561523 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.03156876564025879 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.035100698471069336 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.029736995697021484 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.23824501037597656 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.03424477577209473 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.03475165367126465 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.04092693328857422 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.03711199760437012 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.19974970817565918 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.0500333309173584 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.05185270309448242 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.0513157844543457 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.04847073554992676 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.16521000862121582 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.0780637264251709 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.08938717842102051 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.08708930015563965 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.08797240257263184 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.24805784225463867 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 3 gerou 0 resultados e demorou 0.10363054275512695 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 3 gerou 0 resultados e demorou 0.15124297142028809 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 3 gerou 0 resultados e demorou 0.10798978805541992 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 3 gerou 0 resultados e demorou 0.13994216918945312 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.785637617111206 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.02380061149597168 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.02465367317199707 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.024554967880249023 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.028702497482299805 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.6184120178222656 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.031805992126464844 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.031915903091430664 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.04101443290710449 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.03870081901550293 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.4591248035430908 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.06759428977966309 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.06727433204650879 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.07055783271789551 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.07580924034118652 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.43479418754577637 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.07269573211669922 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.08130979537963867 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.10419774055480957 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.14290738105773926 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.46140623092651367 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.10003972053527832 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.09762692451477051 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.15039563179016113 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.11816573143005371 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.6282029151916504 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 4 gerou 0 resultados e demorou 0.026646137237548828 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 4 gerou 0 resultados e demorou 0.02695012092590332 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 4 gerou 0 resultados e demorou 0.026000499725341797 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 4 gerou 0 resultados e demorou 0.027636051177978516 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.4723961353302002 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 4 gerou 188 resultados e demorou 0.2238609790802002 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 4 gerou 174 resultados e demorou 0.1840360164642334 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 4 gerou 22 resultados e demorou 0.35126805305480957 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 4 gerou 188 resultados e demorou 0.3827676773071289 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 4 gerou 90 resultados e demorou 0.3066108226776123 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 18
+
+o input número 1, do tamanho 4 gerou 188 resultados e demorou 0.17240071296691895 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 33
+
+o input número 2, do tamanho 4 gerou 174 resultados e demorou 0.13585686683654785 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 62
+
+o input número 3, do tamanho 4 gerou 22 resultados e demorou 0.4262266159057617 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 116
+
+o input número 4, do tamanho 4 gerou 188 resultados e demorou 0.4502906799316406 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 218
+
+o input número 0, do tamanho 7 gerou 44 resultados e demorou 0.4158134460449219 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 7 gerou 89 resultados e demorou 0.3545246124267578 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 7 gerou 174 resultados e demorou 0.3404982089996338 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 7 gerou 12 resultados e demorou 0.22757554054260254 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 7 gerou 16 resultados e demorou 1.034883975982666 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 7 gerou 44 resultados e demorou 0.3438699245452881 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 7 gerou 89 resultados e demorou 0.2832021713256836 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 7 gerou 174 resultados e demorou 0.2609114646911621 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 7 gerou 12 resultados e demorou 0.20598173141479492 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 7 gerou 16 resultados e demorou 0.9310948848724365 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 7 gerou 44 resultados e demorou 0.31023168563842773 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 7 gerou 89 resultados e demorou 0.3290567398071289 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 7 gerou 174 resultados e demorou 0.32610583305358887 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 7 gerou 12 resultados e demorou 0.260251522064209 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 7 gerou 16 resultados e demorou 1.1189961433410645 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 7 gerou 44 resultados e demorou 0.32484960556030273 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 37
+
+o input número 1, do tamanho 7 gerou 89 resultados e demorou 0.3920257091522217 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 69
+
+o input número 2, do tamanho 7 gerou 174 resultados e demorou 0.34473752975463867 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 129
+
+o input número 3, do tamanho 7 gerou 12 resultados e demorou 0.294630765914917 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 242
+
+o input número 4, do tamanho 7 gerou 16 resultados e demorou 1.2678053379058838 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 454
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.6835179328918457 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 174 resultados e demorou 0.5528740882873535 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 174 resultados e demorou 0.4461047649383545 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 45 resultados e demorou 0.271317720413208 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 20 resultados e demorou 0.5945076942443848 segundos para processar
+trabalharam neste processo 1 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.5498120784759521 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 174 resultados e demorou 0.6682536602020264 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 174 resultados e demorou 0.3686554431915283 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 45 resultados e demorou 0.2159256935119629 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 20 resultados e demorou 0.2052912712097168 segundos para processar
+trabalharam neste processo 2 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.4250955581665039 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 174 resultados e demorou 0.32202720642089844 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 174 resultados e demorou 0.27545809745788574 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 45 resultados e demorou 0.19634151458740234 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 20 resultados e demorou 0.16051745414733887 segundos para processar
+trabalharam neste processo 4 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.587418794631958 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 174 resultados e demorou 0.37934041023254395 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 174 resultados e demorou 0.3140428066253662 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 45 resultados e demorou 0.21462655067443848 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 20 resultados e demorou 0.22667670249938965 segundos para processar
+trabalharam neste processo 6 cpus e o batch tinha tamanho 105
+
+o input número 0, do tamanho 3 gerou 174 resultados e demorou 0.4574086666107178 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 9
+
+o input número 1, do tamanho 3 gerou 174 resultados e demorou 0.42510008811950684 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 16
+
+o input número 2, do tamanho 3 gerou 174 resultados e demorou 0.24722743034362793 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 30
+
+o input número 3, do tamanho 3 gerou 45 resultados e demorou 0.22546648979187012 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 56
+
+o input número 4, do tamanho 3 gerou 20 resultados e demorou 0.25217461585998535 segundos para processar
+trabalharam neste processo 8 cpus e o batch tinha tamanho 105
+

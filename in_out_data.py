@@ -16,7 +16,10 @@ def generate_walk(dataset, walk_len):
 
     result = list()
 
-    graph_list = choices(read_graph_list(dataset), k=5)
+    graphs, _ = read_graph_list(dataset)
+    graph_list = list(graphs)
+
+    graph_list = choices(graph_list, k=5)
 
     for g in graph_list:
         start_node = start_node_choice(list(g.nodes))
@@ -69,5 +72,5 @@ def read_graph_list(dataset):
         for n in g.nodes.data():
             n[1]["labels"] = n[1]["labels"][0]
     
-    return G
+    return iter(G), len(G)
     

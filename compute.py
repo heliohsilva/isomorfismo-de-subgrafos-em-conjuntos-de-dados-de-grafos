@@ -15,18 +15,17 @@ def generate_input(dataset):
 
 
 def compute_graph_list(dataset, input_size, nworkers, batch_size):
-    graph_list = read_graph_list(dataset)
-
     input_list = read_input(input_size)
-    
+
     #cada input_file tem 5 input graphs.
     for j in range(5):
-        begin = time.time()
         input = input_list[j]
-        batch_size = int(len(graph_list) * (batch_size/100))
-        graph_list.append(1)
-        it = iter(graph_list)
-        G = list()
+        it, graph_list_size = read_graph_list(dataset)
+        begin = time.time()
+        
+        batch_size = int(graph_list_size * (batch_size/100))
+        iso_G = list()
+        verifica = 0
         
         g = ""
 
@@ -38,13 +37,13 @@ def compute_graph_list(dataset, input_size, nworkers, batch_size):
                     break
                 graph_batch = list()
                 for _ in range(batch_size):
-                    g = next(it)
+                    g = next(it, 1)
                     if type(g) == int:
                         break
                     graph_batch.append(g)
             
-            
                 batch_list.append(graph_batch)
+                verifica += len(graph_batch)
                 
             with concurrent.futures.ProcessPoolExecutor(nworkers) as executor:
                 futures = [
@@ -56,9 +55,11 @@ def compute_graph_list(dataset, input_size, nworkers, batch_size):
             result_iter = itertools.chain(*temporary_result)
             if result_iter:
                 for graph in result_iter:
-                    G.append(graph)
+                    iso_G.append(graph)
 
-        write_file(j, input_size, len(G), time.time() - begin, nworkers, batch_size)
+        print(verifica)
+
+        write_file(j, input_size, len(iso_G), time.time() - begin, nworkers, batch_size)
 
 
 def parse_line_graph(g):
