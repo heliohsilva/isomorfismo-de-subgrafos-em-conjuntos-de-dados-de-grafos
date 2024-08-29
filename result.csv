@@ -1,0 +1,70 @@
+walk_size, nworkers, batch_size, |V|, |E|, tempo, memoria
+2,1,15,6,5,0.6972429752349854,Graph with 30 nodes and 32 edges
+Graph with 43 nodes and 46 edges
+Graph with 43 nodes and 46 edges
+Graph with 44 nodes and 47 edges
+Graph with 47 nodes and 50 edges
+Graph with 41 nodes and 44 edges
+Graph with 45 nodes and 50 edges
+603644
+4,1,15,8,7,0.7765541076660156,Graph with 33 nodes and 35 edges
+Graph with 44 nodes and 46 edges
+Graph with 34 nodes and 37 edges
+Graph with 43 nodes and 46 edges
+Graph with 43 nodes and 46 edges
+Graph with 37 nodes and 40 edges
+Graph with 34 nodes and 38 edges
+604196
+6,1,15,8,7,0.7126870155334473,Graph with 33 nodes and 35 edges
+Graph with 27 nodes and 29 edges
+Graph with 46 nodes and 49 edges
+Graph with 31 nodes and 34 edges
+Graph with 27 nodes and 29 edges
+Graph with 39 nodes and 42 edges
+Graph with 37 nodes and 42 edges
+602580
+8,1,15,14,13,0.8999013900756836,Graph with 30 nodes and 32 edges
+Graph with 44 nodes and 46 edges
+Graph with 42 nodes and 45 edges
+Graph with 46 nodes and 49 edges
+Graph with 21 nodes and 22 edges
+Graph with 31 nodes and 35 edges
+Graph with 33 nodes and 37 edges
+603848
+10,1,15,12,12,2.1150403022766113,Graph with 33 nodes and 35 edges
+Graph with 46 nodes and 49 edges
+Graph with 36 nodes and 39 edges
+Graph with 43 nodes and 46 edges
+Graph with 46 nodes and 49 edges
+Graph with 32 nodes and 34 edges
+Graph with 35 nodes and 39 edges
+603840
+12,1,15,8,7,1.1109490394592285,Graph with 34 nodes and 36 edges
+Graph with 33 nodes and 35 edges
+Graph with 35 nodes and 38 edges
+Graph with 43 nodes and 46 edges
+Graph with 29 nodes and 30 edges
+Graph with 32 nodes and 34 edges
+Graph with 45 nodes and 50 edges
+603732
+14,1,15,13,13,22.77678918838501,Graph with 33 nodes and 35 edges
+Graph with 32 nodes and 34 edges
+Graph with 33 nodes and 35 edges
+Graph with 43 nodes and 46 edges
+Graph with 34 nodes and 37 edges
+603744
+16,1,15,7,6,0.7820382118225098,Graph with 30 nodes and 32 edges
+Graph with 31 nodes and 33 edges
+Graph with 37 nodes and 40 edges
+Graph with 43 nodes and 46 edges
+Graph with 28 nodes and 30 edges
+Graph with 30 nodes and 32 edges
+Graph with 34 nodes and 38 edges
+604696
+18,1,15,10,9,1.7546780109405518,Graph with 40 nodes and 43 edges
+Graph with 37 nodes and 39 edges
+Graph with 40 nodes and 43 edges
+Graph with 36 nodes and 38 edges
+Graph with 37 nodes and 39 edges
+Graph with 25 nodes and 27 edges
+605500
