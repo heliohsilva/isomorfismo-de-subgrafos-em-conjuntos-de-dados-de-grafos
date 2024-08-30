@@ -21,7 +21,7 @@ def main():
     tempo = []
     size_e = []
 
-    with open("result_mutag_com_labels.csv", "r") as f:
+    with open("result_bzr_sem_labels.csv", "r") as f:
         reader = csv.reader(f)
         next(reader) 
 
