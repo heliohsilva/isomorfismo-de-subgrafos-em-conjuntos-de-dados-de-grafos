@@ -1,5 +1,5 @@
 ## Estrutura do Projeto
-
+```
 root/
 ├── bzr/
 │ ├── input_exemplos/
@@ -24,7 +24,7 @@ root/
 ├── requirements.txt
 ├── run.sh
 └── speedup+eficiencia.py
-
+```
 ## Descrição das Pastas e Arquivos
 
 - **bzr, cuneiform, mutag:** Pastas que contém os dados e resultados para cada algoritmo.
