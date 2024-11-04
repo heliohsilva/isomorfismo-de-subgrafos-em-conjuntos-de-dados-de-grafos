@@ -23,7 +23,7 @@ def karp_flatt_metric(speedup_value, nworkers):
 
 
 def get_data():
-    with open("bzr_sem_labels_media.csv", "r") as f:
+    with open("result_raw.csv", "r") as f:
         data = f.read()
 
 
@@ -78,15 +78,15 @@ def main():
     for i in range(0, len(lista_1)):
         print(i)
         temp = dict()
-        s = speedup(lista_1[i][4], lista_2[i][4])
+        s = speedup(lista_1[i][4], lista_8[i][4])
         temp = {
             "s": s,
-            "p" : parallel_fraction(s, 2),
-            "k": karp_flatt_metric(s, 2),
-            "e": efficiency(s, 2)
+            "p" : parallel_fraction(s, 8),
+            "k": karp_flatt_metric(s, 8),
+            "e": efficiency(s, 8)
         }
         with open("speedup_eficiencia.csv", "a") as f:
-            f.write(f'{2},{lista_1[i][1]},{lista_1[i][2]},{temp["s"]},{temp["e"]},{temp["p"]},{temp["k"]},{lista_1[i][3]}\n')
+            f.write(f'{8},{lista_1[i][1]},{lista_1[i][2]},{temp["s"]},{temp["e"]},{temp["p"]},{temp["k"]},{lista_1[i][3]}\n')
 
 if __name__ == "__main__":
     main()

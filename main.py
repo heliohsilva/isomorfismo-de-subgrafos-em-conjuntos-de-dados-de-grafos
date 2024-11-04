@@ -4,7 +4,7 @@ import os
 import sys
 
 def main ():
-    dataset = "BZR"
+    dataset = "Cuneiform"
 
     #if os.path.exists("iso_result.txt"):
      #   os.remove("iso_result.txt")

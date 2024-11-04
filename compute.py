@@ -51,10 +51,6 @@ def compute_graph_list(dataset, input_size, nworkers, batch_size):
             verifica += len(graph_batch)
         
 
-        
-        l = [compute_graph_batch(batch, input, input_size, i) for batch in batch_list]
-        i+=1
-        """    
         with concurrent.futures.ProcessPoolExecutor(nworkers) as executor:
             futures = [
                 executor.submit(compute_graph_batch, batch, input, input_size)
@@ -65,13 +61,11 @@ def compute_graph_list(dataset, input_size, nworkers, batch_size):
                 temporary_result.append(future.result())
                 
             result_iter = itertools.chain(*temporary_result)
-
-        
         
         if result_iter:
             for graph in result_iter:
                 iso_G.append(graph)
-        """
+        
         write_file(input_size, graph_list_size, len(iso_G), time.time() - begin, nworkers, batch_size)
         
     with open("result.csv", "a") as f:
@@ -91,7 +85,7 @@ def parse_line_graph(g):
 
     return G
 
-def compute_graph_batch(graph_list, input, input_size, outputs):
+def compute_graph_batch(graph_list, input, input_size):
     
     graph_list = [{"graph": g, "line_graph": parse_line_graph(g)} for g in graph_list]
     input = {"graph":input, "line_graph": parse_line_graph(input)}
@@ -105,41 +99,7 @@ def compute_graph_batch(graph_list, input, input_size, outputs):
         if iso.subgraph_is_isomorphic():
             return_list.append(graph_list[g]["graph"])
 
-    if return_list:
-        teste = choices(return_list, k=1)[0]
-        print(teste)
-
-        if not Path(f'/home/heliohsilva/projects/paralel-dataset/input_{input_size}.png').exists():
-            input_graph = input["graph"]
-        
-            # Cria uma nova figura
-            plt.figure()
-            pos = nx.spring_layout(input_graph)
-            nx.draw(input_graph, pos)
-
-            plt.savefig(f'input_{input_size}.png', format="png")
-            plt.clf()  # Limpa a figura atual para evitar sobreposição  
-
-
-        if outputs < 5:
-            # Cria uma nova figura
-            
-            plt.figure()
-            pos = nx.spring_layout(teste)
-            nx.draw(teste, pos)
-
-            plt.savefig(f'size_{input_size}_output_{outputs}.png', format="png")
-            
-            plt.clf()  # Limpa a figura atual para evitar sobreposição
-
-            
-
-        else:
-            pass
-    
-
     return return_list
-
 
 
 def write_file(input_index, input_path_size, results, time, nworkers, batch_size):

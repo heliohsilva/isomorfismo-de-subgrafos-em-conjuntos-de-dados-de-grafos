@@ -21,7 +21,7 @@ def main():
     tempo = []
     size_e = []
 
-    with open("result_bzr_sem_labels.csv", "r") as f:
+    with open("Cuneiform_raw.csv", "r") as f:
         reader = csv.reader(f)
         next(reader) 
 
