@@ -51,14 +51,19 @@ root/
    source venv/bin/activate
    ```
 
-   a. **Utilizando conda**
+   b. **Utilizando conda**
 
    ```bash
    conda create -n my-env
    conda activate my-env
    ```
 
-2. **Executar projeto**
+2. **Instalar as dependencias**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Executar projeto**
    ```bash
    sh run.sh
    ```
